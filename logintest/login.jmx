@@ -30,8 +30,8 @@
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
-          <stringProp name="HTTPSampler.domain">elsmcore:My3l5Pass@uatde.magentofr.elsevier.com</stringProp>
-          <stringProp name="HTTPSampler.port">80</stringProp>
+          <stringProp name="HTTPSampler.domain">tompetty.warnermusic.local</stringProp>
+          <stringProp name="HTTPSampler.port">32776</stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
           <stringProp name="HTTPSampler.path"></stringProp>
